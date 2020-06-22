@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
             android:fontFamily="sans-serif"
-            android:text="Last updated: Sun Jun 09 16:00:04 GMT+02:00 2019"
+            android:text="@string/last_updated"
             android:textColor="@android:color/darker_gray"
             android:textStyle="italic"
             app:layout_constraintEnd_toEndOf="parent"
